@@ -49,8 +49,10 @@
   
   
   <img title="" src="photo/single.jpeg" alt="single" width="278">
+  <br>
   
-  <img title="" src="photo/ghost.jpeg" alt="ghost" width="281" data-align="inline">
+  <img title="" src="photo/ghost.jpeg" alt="ghost" width="281">
+  <br>
 
         <img src="photo/competition.jpeg" title="" alt="competition" width="272">
 
