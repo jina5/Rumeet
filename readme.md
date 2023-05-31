@@ -38,19 +38,25 @@
 
 - **나만의 러닝 메이트 찾기**
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\main.jpeg)
+<img title="" src="photo/main.jpeg" alt="main" width="293">
+
+- **모드 선택**
+  
+  <img src="photo/list.jpeg" title="" alt="mode" width="279">
 
 - **솔로, 고스트, 경쟁, 협동 달리기**
+  
+  
+  
+  <img title="" src="photo/single.jpeg" alt="single" width="278">
+  
+  <img title="" src="photo/ghost.jpeg" alt="ghost" width="281" data-align="inline">
 
-![모드 선택](C:\Users\SSAFY\nn\dd\Rumeet\photo\list.jpeg)
+        <img src="photo/competition.jpeg" title="" alt="competition" width="272">
 
-모드 선택
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\single.jpeg)
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\ghost.jpeg)
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\competition.jpeg)
 
 ### 서비스 전체 기능
 
@@ -64,9 +70,11 @@
 - **경쟁 달리기** - 랜덤 혹은 친구와 함께 달리며 정해진 거리를 먼저 도달하면 승리합니다.
 - **협동 달리기** - 랜덤 혹은 친구와 함게 달리며 정해진 난이도의 상어에게 도망가면 승리합니다.
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\chat1.jpeg)
 
-![Untitled](C:\Users\SSAFY\nn\dd\Rumeet\photo\chat2.jpeg)
+
+<img src="photo/chat1.jpeg" title="" alt="chat" width="310">
+
+<img src="photo/chat2.jpeg" title="" alt="chat" width="308">
 
 ## 👩🏻‍🔧 기술 스택
 
@@ -102,6 +110,6 @@
 
 ---
 
-![데이터 처리 설계](C:\Users\SSAFY\nn\dd\Rumeet\photo\architecture.png)
+![archi](photo/architecture.png)
 
 데이터 처리 설계
